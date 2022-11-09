@@ -79,25 +79,6 @@ body {
 	z-index: 10;
 }
 
-#layout .navbar {
-	position: relative;
-	width: 50%;
-	height: auto;
-    float: left;
-	top: -17px;
-}
-#layout .menu {
-	position: relative;
-	width: 50%;
-	height: auto;
-	float: right;
-}
-#layout .page {
-	top: 0px;
-	position: relative;
-	width: calc(100% - 25%);
-}
-
 .section {
   overflow: hidden;
   clear: both;
