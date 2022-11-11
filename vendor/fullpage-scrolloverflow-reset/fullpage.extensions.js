@@ -49,7 +49,7 @@
         Xn = Dn + ".fp-next";
 
     function Gn(e, t) {
-        cn.console && cn.console[e] && cn.console[e]("fullPage: " + t)
+        /*cn.console && cn.console[e] && cn.console[e]("fullPage: " + t)*/
     }
 
     function Un(e, t) {
